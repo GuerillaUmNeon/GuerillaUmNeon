@@ -6,17 +6,7 @@ I'm **Guillaume** — a full‑stack web developer who builds small web apps, au
 
 I'm currently studying Data Science with Le Wagon.
 
-## 
-
-## About Me
-
-- Name: **Guillaume**
-- GitHub: [GuerillaUmNeon](https://github.com/GuerillaUmNeon)
-- Member since: **2019-12-14**
-
-I enjoy building small web applications, frontends and automation scripts (desktop/server bots and helpers). My projects range from interactive frontends and portfolios to automation tools that integrate with services like ListenBrainz / Lidarr and Letterboxd.
-
-Location / Company: Not specified on profile — open to collaboration and freelance/project opportunities. Feel free to connect on LinkedIn. 🔗
+I build small web applications, frontends and automation scripts (desktop/server bots and helpers). My projects range from interactive frontends and portfolios to automation tools that integrate with services like ListenBrainz / Lidarr and Letterboxd.
 
 ## Skills & Technologies
 
@@ -27,11 +17,8 @@ Location / Company: Not specified on profile — open to collaboration and freel
 
 ## Top Projects
 
-- [ar-front](https://github.com/GuerillaUmNeon/ar-back) 🌐
-   - Description: An album new release tracker, with Spotify and Last.fm import
-
-- [ar-front](https://github.com/GuerillaUmNeon/ar-front) 🌐
-   - Description: Frontend project
+- [ar-back](https://github.com/GuerillaUmNeon/ar-back) / [ar-front](https://github.com/GuerillaUmNeon/ar-front) 🌐
+   - Description: An album new release tracker website, with Spotify and Last.fm import.
 
 - [letterboxd-diary-remover](https://github.com/GuerillaUmNeon/letterboxd-diary-remover) 🗑️🎬
    - Description: A script to remove automatically movies from your diary
