@@ -20,7 +20,16 @@ Location / Company: Not specified on profile — open to collaboration and freel
 
 ## Skills & Technologies
 
-git,github,nodejs,react,nextjs,ts,py,html,css,express,vercel,npm,vscode,githubactions
+![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg)
+![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)
+![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextjs.svg)
+![Vercel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg)
+![NPM](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)
+
 
 ## 
 
