@@ -20,15 +20,15 @@ Location / Company: Not specified on profile — open to collaboration and freel
 
 ## Skills & Technologies
 
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg)
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg)
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg)
-![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)
-![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextjs.svg)
-![Vercel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg)
-![NPM](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)
+![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg?height=24)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg?height=24)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg?height=24)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg?height=24)
+![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg?height=24)
+![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextjs.svg?height=24)
+![Vercel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg?height=24)
+![NPM](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg?height=24)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg?height=24)
 
 
 ## 
