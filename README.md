@@ -1,16 +1,61 @@
-## Hi there 👋
+## 
 
-<!--
-**GuerillaUmNeon/GuerillaUmNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 
 
-Here are some ideas to get you started:
+I'm **Guillaume** (GuerillaUmNeon) — a full‑stack web developer who builds small web apps, automation scripts and bots. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying Data Science
+
+You can find my work here on GitHub: https://github.com/GuerillaUmNeon
+
+## 
+
+## About Me
+
+- Name: **Guillaume**
+- GitHub: [GuerillaUmNeon](https://github.com/GuerillaUmNeon)
+- Member since: **2019-12-14**
+
+I enjoy building small web applications, frontends and automation scripts (desktop/server bots and helpers). My projects range from interactive frontends and portfolios to automation tools that integrate with services like ListenBrainz / Lidarr and Letterboxd.
+
+Location / Company: Not specified on profile — open to collaboration and freelance/project opportunities. Feel free to connect on LinkedIn. 🔗
+
+## Skills & Technologies
+
+git,github,nodejs,react,nextjs,ts,py,html,css,express,vercel,npm,vscode,githubactions
+
+## 
+
+## Top Projects
+
+- [ar-front](https://github.com/GuerillaUmNeon/ar-back) 🌐
+   - Description: An album new release tracker, with Spotify and Last.fm import
+
+- [ar-front](https://github.com/GuerillaUmNeon/ar-front) 🌐
+   - Description: Frontend project
+
+- [letterboxd-diary-remover](https://github.com/GuerillaUmNeon/letterboxd-diary-remover) 🗑️🎬
+   - Description: A script to remove automatically movies from your diary
+
+
+- [listenarr](https://github.com/GuerillaUmNeon/listenarr) 🎧
+   - Description: A script to add your most played artists from ListenBrainz to your Lidarr.
+
+
+Notes:
+- Projects include deployed frontends (Vercel) and small automation scripts.
+- Repos chosen by activity, presence of homepage, and clear utility-focused descriptions.
+
+## 
+
+## Connect with Me 🌐
+
+- 🧑‍💻 GitHub: [GuerillaUmNeon](https://github.com/GuerillaUmNeon)
+- 🔗 LinkedIn: [Guillaume Ronnel](https://www.linkedin.com/in/guillaumeronnel)
+
+Icons/Badges:
+
+- GitHub: ![GitHub](https://img.shields.io/badge/GitHub-GuerillaUmNeon-181717?style=flat&logo=github)
+- LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
+Open to collaboration, small freelance projects and interesting automation tasks — message me on LinkedIn or open an issue/PR on a repo. ✉️
