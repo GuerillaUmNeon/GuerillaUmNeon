@@ -4,7 +4,7 @@
 
 I'm **Guillaume** (GuerillaUmNeon) — a full‑stack web developer who builds small web apps, automation scripts and bots. 🚀
 
-I'm currently studying Data Science
+I'm currently studying Data Science with Le Wagon
 
 You can find my work here on GitHub: https://github.com/GuerillaUmNeon
 
@@ -41,11 +41,6 @@ git,github,nodejs,react,nextjs,ts,py,html,css,express,vercel,npm,vscode,githubac
 - [listenarr](https://github.com/GuerillaUmNeon/listenarr) 🎧
    - Description: A script to add your most played artists from ListenBrainz to your Lidarr.
 
-
-Notes:
-- Projects include deployed frontends (Vercel) and small automation scripts.
-- Repos chosen by activity, presence of homepage, and clear utility-focused descriptions.
-
 ## 
 
 ## Connect with Me 🌐
@@ -57,5 +52,3 @@ Icons/Badges:
 
 - GitHub: ![GitHub](https://img.shields.io/badge/GitHub-GuerillaUmNeon-181717?style=flat&logo=github)
 - LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
-
-Open to collaboration, small freelance projects and interesting automation tasks — message me on LinkedIn or open an issue/PR on a repo. ✉️
