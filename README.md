@@ -4,9 +4,7 @@
 
 I'm **Guillaume** — a full‑stack web developer who builds small web apps, automation scripts and bots. 🚀
 
-I'm currently studying Data Science with Le Wagon
-
-You can find my work here on GitHub: https://github.com/GuerillaUmNeon
+I'm currently studying Data Science with Le Wagon.
 
 ## 
 
