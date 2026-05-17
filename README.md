@@ -2,11 +2,19 @@
 
 # Hi there! 
 
-I'm **Guillaume** — a full‑stack web developer who builds small web apps, automation scripts and bots. 🚀
+I’m Guillaume, a web developer transitioning into **data science**.
 
-I'm currently studying Data Science with Le Wagon.
+I recently completed a training in data science, where I built hands-on projects using Python, SQL, machine learning, and cloud-based data 
+tools.
 
-I build small web applications, frontends and automation scripts (desktop/server bots and helpers). My projects range from interactive frontends and portfolios to automation tools that integrate with services like ListenBrainz / Lidarr and Letterboxd.
+What makes my profile a strong fit is that I also bring a solid full-stack 
+background, especially in Node.js, scripting, APIs, and database 
+management. I’ve also built automation tools that integrate with 
+services like ListenBrainz, Lidarr, and Letterboxd, which shows I’m 
+comfortable connecting systems and working with real-world data.
+
+That combination helps me work on projects from data collection to 
+implementation. I’m especially motivated by turning raw data into useful insights and building practical, automated solutions.
 
 ## Skills & Technologies
 
