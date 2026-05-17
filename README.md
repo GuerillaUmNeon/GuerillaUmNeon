@@ -25,7 +25,7 @@ implementation. I’m especially motivated by turning raw data into useful insig
 
 ## Top Projects
 
-- [ar-back](https://github.com/GuerillaUmNeon/ar-back) / [ar-front](https://github.com/GuerillaUmNeon/ar-front) 🌐
+- [album-release](https://github.com/GuerillaUmNeon/album-release) 🌐
    - Description: An album new release tracker website, with Spotify and Last.fm import.
 
 - [letterboxd-diary-remover](https://github.com/GuerillaUmNeon/letterboxd-diary-remover) 🗑️🎬
