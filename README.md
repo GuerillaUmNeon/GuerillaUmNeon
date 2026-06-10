@@ -78,7 +78,7 @@ Beyond data science, I bring **production experience** in full-stack development
 
 - 🧑‍💻 [GitHub](https://github.com/GuerillaUmNeon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guillaumeronnel)
-- 🎵 [Portfolio](https://www.ronnel.fr/)
+- 🌐 [Portfolio](https://www.ronnel.fr/)
 
 ***
 
