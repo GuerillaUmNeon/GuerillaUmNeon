@@ -1,4 +1,4 @@
-# Hi there! 👋
+### Hello there.
 
 I'm Guillaume, a **data science** with a background in full-stack developer.
 
