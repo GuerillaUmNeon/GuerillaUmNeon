@@ -6,9 +6,9 @@ I recently completed a **9-week intensive data science bootcamp**, where I built
 
 ***
 
-## 🚀 Recent Work: Bootcamp + Capstone Project
+## 🚀 Recent Work: Bootcamp + rec_o Project
 
-### **rec_o: Music Recommendation Engine** (2-Week Capstone)
+### **rec_o: Music Recommendation Engine** (2-Week project)
 A production-ready **FastAPI backend** for personalized music recommendations using KNN machine learning models.
 
 **Key Features:**
